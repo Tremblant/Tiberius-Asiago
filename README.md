@@ -80,7 +80,7 @@ My focus is not just building models — but building the infrastructure that ma
 
 I document my AI Infrastructure journey here:
 
-👉 [AI Infrastructure Notes](https://blackAI.github.io)
+👉 [AI Infrastructure Notes](https://tiberius-asiago.github.io)
 
 Topics include:
 - Designing AI platforms for startups
