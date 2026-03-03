@@ -98,7 +98,7 @@ My focus is not just building models — but building the infrastructure that ma
 
 I document my AI Infrastructure journey here:
 
-👉 [AI Infrastructure Notes](https://tremblant.github.io)
+👉 [AI Infrastructure Notes](https://tremblant.github.io/blackAI)
 
 Topics include:
 - Designing AI platforms for startups
