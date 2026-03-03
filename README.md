@@ -19,22 +19,47 @@ My focus is not just building models — but building the infrastructure that ma
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
-![MLflow](https://img.shields.io/badge/MLflow-000?style=for-the-badge)
-![Prometheus](https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana)
+### 🚧 Infrastructure
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-111?style=for-the-badge&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111?style=for-the-badge&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws)
+
+---
+
+### 🧠 Machine Learning Systems
+![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch)
+![MLflow](https://img.shields.io/badge/MLflow-111?style=for-the-badge)
+![DVC](https://img.shields.io/badge/DVC-111?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-111?style=for-the-badge&logo=scikitlearn)
+
+---
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-111?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-111?style=for-the-badge&logo=grafana)
+![Loki](https://img.shields.io/badge/Loki-111?style=for-the-badge)
+
+---
+
+### 🛰 Systems & Cloud Background
+- Networking (VPC, VPN, SD-WAN)
+- Cloud Architecture
+- Firewall & Security Systems
+
+---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiberius-Asiago&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiberius-Asiago&layout=compact&theme=tokyonight)
+
+---
 
 ### 🔧 Core Focus Areas
 
@@ -54,34 +79,6 @@ My focus is not just building models — but building the infrastructure that ma
 - 🧪 GPU Experiment Tracking Lab (MLflow + DVC)
 - ⚙️ Kubernetes ML Scaling Environment
 - 📊 AI Observability Stack (Prometheus + Grafana)  
-
----
-
-### 🧰 Tech Stack
-
-**Infrastructure**
-- Linux
-- Docker
-- Kubernetes
-- Terraform
-- GitHub Actions
-- AWS
-
-**Machine Learning**
-- PyTorch
-- MLflow
-- DVC
-- Scikit-learn
-
-**Monitoring**
-- Prometheus
-- Grafana
-- Loki
-
-**Systems Background**
-- Networking (VPC, VPN, SD-WAN)
-- Cloud Architecture
-- Firewall & Security Systems
 
 ---
 
