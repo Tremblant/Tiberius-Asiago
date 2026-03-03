@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/images/banner.jpg" alt="blackAI Banner" />
+</p>
+
 # 👋 Tiberius Asiago
 
 ## AI Infrastructure & MLOps Engineer  
@@ -15,6 +19,23 @@ My focus is not just building models — but building the infrastructure that ma
 
 ---
 
+### 🧰 Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
+![MLflow](https://img.shields.io/badge/MLflow-000?style=for-the-badge)
+![Prometheus](https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiberius-Asiago&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiberius-Asiago&layout=compact&theme=tokyonight)
+
 ### 🔧 Core Focus Areas
 
 - Containerized ML APIs (FastAPI + Docker)
@@ -27,12 +48,12 @@ My focus is not just building models — but building the infrastructure that ma
 
 ---
 
-### 🛠 Current Build Log
+## 🔭 Currently Building
 
-🔹 Building a production-ready ML API with Docker & CI/CD  
-🔹 Designing reproducible GPU training environments  
-🔹 Scaling ML inference using Kubernetes  
-🔹 Implementing monitoring for AI systems  
+- 🚀 Production ML API (FastAPI + Docker + CI/CD)
+- 🧪 GPU Experiment Tracking Lab (MLflow + DVC)
+- ⚙️ Kubernetes ML Scaling Environment
+- 📊 AI Observability Stack (Prometheus + Grafana)  
 
 ---
 
