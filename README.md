@@ -98,7 +98,7 @@ My focus is not just building models — but building the infrastructure that ma
 
 I document my AI Infrastructure journey here:
 
-👉 [AI Infrastructure Notes](https://tiberius-asiago.github.io)
+👉 [AI Infrastructure Notes](https://tremblant.github.io)
 
 Topics include:
 - Designing AI platforms for startups
