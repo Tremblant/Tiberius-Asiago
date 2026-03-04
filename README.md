@@ -1,11 +1,6 @@
-<p align="center">
-  <img src="./assets/images/banner.jpg" alt="blackAI Banner" />
-</p>
-
 # 👋 Tiberius Asiago
-
-## AI Infrastructure & MLOps Engineer  
-Building reliable, scalable AI systems from Africa.
+## AI Infrastructure & MLOps Engineer
+> Building reliable, scalable AI systems from Africa.
 
 ---
 
@@ -15,7 +10,7 @@ I design and deploy production-ready AI systems with a strong foundation in netw
 
 With a background in telecommunications and cloud infrastructure, I specialize in building resilient ML platforms — from containerized model serving to GPU training pipelines and Kubernetes-based deployments.
 
-My focus is not just building models — but building the infrastructure that makes AI reliable, scalable, and observable.
+My focus is not just building models — but building the **infrastructure that makes AI reliable, scalable, and observable**.
 
 ---
 
@@ -29,22 +24,16 @@ My focus is not just building models — but building the infrastructure that ma
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111?style=for-the-badge&logo=githubactions)
 ![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws)
 
----
-
 ### 🧠 Machine Learning Systems
 ![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch)
 ![MLflow](https://img.shields.io/badge/MLflow-111?style=for-the-badge)
 ![DVC](https://img.shields.io/badge/DVC-111?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-111?style=for-the-badge&logo=scikitlearn)
 
----
-
 ### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-111?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-111?style=for-the-badge&logo=grafana)
 ![Loki](https://img.shields.io/badge/Loki-111?style=for-the-badge)
-
----
 
 ### 🛰 Systems & Cloud Background
 - Networking (VPC, VPN, SD-WAN)
@@ -55,9 +44,8 @@ My focus is not just building models — but building the infrastructure that ma
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiberius-Asiago&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiberius-Asiago&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tremblant&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tremblant&layout=compact&theme=tokyonight)
 
 ---
 
@@ -75,30 +63,31 @@ My focus is not just building models — but building the infrastructure that ma
 
 ## 🔭 Currently Building
 
-- 🚀 Production ML API (FastAPI + Docker + CI/CD)
-- 🧪 GPU Experiment Tracking Lab (MLflow + DVC)
-- ⚙️ Kubernetes ML Scaling Environment
-- 📊 AI Observability Stack (Prometheus + Grafana)  
+| Project | Stack | Status |
+|---|---|---|
+| 🚀 Production ML API | FastAPI + Docker + CI/CD | 🟡 In Progress |
+| 🧪 GPU Experiment Tracking Lab | MLflow + DVC | 🟡 In Progress |
+| ⚙️ Kubernetes ML Scaling Env | K8s + Helm | 🟡 In Progress |
+| 📊 AI Observability Stack | Prometheus + Grafana | 🟡 In Progress |
 
 ---
 
 ### 📂 Featured Projects
 
-- 🚀 ML API Production Deployment
-- 🧪 GPU ML Experiment Lab
-- ⚙️ Kubernetes ML Scaling
-- 📊 AI Monitoring Stack
-- 🏗 AI Infrastructure Capstone Platform
+- 🚀 [ML API Production Deployment](#) — FastAPI model serving with Docker + CI/CD
+- 🧪 [GPU ML Experiment Lab](#) — Reproducible training with MLflow + DVC
+- ⚙️ [Kubernetes ML Scaling](#) — Horizontal pod autoscaling for ML workloads
+- 📊 [AI Monitoring Stack](#) — End-to-end observability for deployed models
+- 🏗 [AI Infrastructure Capstone Platform](#) — Full-stack MLOps reference architecture
 
-(Projects currently under active development.)
+> Projects currently under active development.
 
 ---
 
 ### 📝 Technical Blog
 
 I document my AI Infrastructure journey here:
-
-👉 [AI Infrastructure Notes](https://tremblant.github.io/blackAI)
+👉 **[AI Infrastructure Notes](https://tremblant.github.io/blackAI)**
 
 Topics include:
 - Designing AI platforms for startups
@@ -111,11 +100,12 @@ Topics include:
 
 ### 🌍 Vision
 
-To design reliable AI platforms that empower startups across Africa and emerging markets.
+> To design reliable AI platforms that empower startups across Africa and emerging markets.
 
 ---
 
 ### 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/in/tiberiusasiago  
-Email: tibeasiago@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiberiusasiago)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tibeasiago@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-111?style=for-the-badge&logo=github)](https://tremblant.github.io/blackAI)
